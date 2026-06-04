@@ -1058,6 +1058,7 @@
 - seroperson/zio-http-pac4j
 - SethTisue/adventofcode
 - SethTisue/Project-Euler
+- shipreq/shipreq
 - shadaj/slinky
 - shopstic/chopsticks
 - sideeffffect/liquibase-doobie
